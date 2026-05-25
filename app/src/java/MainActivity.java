@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        // Soy gay
         int matematicas = 5;
         int quimica = 5;
         int fisica = 5;
